@@ -5,5 +5,15 @@
       "app": "Airbnb",
       "timestamp": "2018-10-29T00:30:12.984Z"
     }
+  ],
+  "user": [
+    {
+      "user_id": "019mr8mf4r",
+      "app_launched": 21,
+      "most_active_day_last_7_days": "2018-10-29",
+      "number_of_days_active_last_7 _days": 3,
+      "most_launched_app_last_7_days": "Airbnb"
+    }
   ]
+  
 }
